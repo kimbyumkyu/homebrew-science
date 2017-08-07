@@ -1,7 +1,7 @@
 class Root6Bk < Formula
   homepage "https://root.cern.ch"
-  #url "https://root.cern.ch/download/root_v6.06.08.macosx64-10.11-clang73.tar.gz"
-	url "https://root.cern.ch/download/root_v6.10.02.macosx64-10.11-clang80.tar.gz"
+  url "https://root.cern.ch/download/root_v6.06.08.macosx64-10.11-clang73.tar.gz"
+	#url "https://root.cern.ch/download/root_v6.10.02.macosx64-10.11-clang80.tar.gz"
   sha256 "0186dc465ab5f7f2390fbf67b36c891a7aca9c6d8929e30155857f8bbcd5a2c3"
   version "6.10.02"
 
